@@ -22,6 +22,19 @@ Completing the Common Core demonstrates a student's ability to grasp fundamental
 ## My Journey
 <details>
   <summary>The Piscine</summary>
-  ![Image](https://raw.githubusercontent.com/inesalves44/42School/main/Piscine.png)
-  
+  ![Picine](https://github.com/inesalves44/42School/assets/105734074/cb55b3b5-c878-4b21-bc29-f08d6a29d313)
+Project  | Grade
+---------|------
+Shell00   | 
+Shell01     | | 
+C00   | grep
+C01   | mini
+C02
+C03
+C04
+C05
+C06
+C07
+
+  This my REpository for the Piscine projects:
 </details>
