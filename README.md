@@ -1,13 +1,8 @@
 # 42 School Projects
 
 ## The School
-42 School, also known as 42 or École 42, is a unique and innovative coding school that originated in France. Established by French tech entrepreneur Xavier Niel in 2013, 42 School takes a radically different approach to education by offering a tuition-free, project-based learning experience in the field of computer programming and software engineering.
+42 School, also known as École 42, is an innovative coding institution founded by French entrepreneur Xavier Niel in 2013. It stands out with its tuition-free model and project-centered approach to teaching software engineering. Named after a reference in "The Hitchhiker's Guide to the Galaxy," 42 School promotes peer-to-peer learning and independent study. The curriculum focuses on hands-on projects, utilizing gamification for skill enhancement through increasingly intricate coding challenges. Notably, the admission process, known as the Piscine, assesses candidates' coding prowess.
 
-What sets 42 School apart is its focus on peer-to-peer learning and self-directed study. The school's name, "42," is a nod to the science fiction novel "The Hitchhiker's Guide to the Galaxy" by Douglas Adams, in which 42 is described as the "Answer to the Ultimate Question of Life, the Universe, and Everything." 
-
-Students at 42 School engage in a rigorous and intensive curriculum that emphasizes hands-on programming projects and real-world challenges. The school employs a gamified learning approach, where students progress by completing coding projects of increasing complexity and difficulty. Peer assessment and collaboration play a significant role in evaluating and improving students' skills.
-
-The school's admission process is called the Piscine.
 <details>
 <summary>Piscine</summary>
 The "piscine" is a unique and intense coding bootcamp-style program offered by 42 School. The term "piscine" is French for "swimming pool," which metaphorically refers to diving into a challenging and immersive learning experience. During the piscine, participants, often prospective students of 42 School, are given a condensed period of time, typically a few weeks, to fully immerse themselves in coding and problem-solving tasks.
