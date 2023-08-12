@@ -22,5 +22,6 @@ Completing the Common Core demonstrates a student's ability to grasp fundamental
 ## My Journey
 <details>
   <summary>The Piscine</summary>
+  [!ThePiscineJourney](https://github.com/inesalves44/42School/blob/main/Screenshot%20from%202023-08-12%2012-56-57.png)
   
 </details>
