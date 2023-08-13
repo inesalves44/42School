@@ -54,5 +54,5 @@ Exam01 | <img src="https://img.shields.io/badge/score-64%20%2F%20100-success" />
 Exam02 | <img src="https://img.shields.io/badge/score-70%20%2F%20100-success" />
 Final Exam | <img src="https://img.shields.io/badge/score-66%20%2F%20100-success" />
 
-  This my REpository for the Piscine projects:
+  This my repository for the Piscine projects: [Piscine Repository](https://github.com/inesalves44/Piscine)
 </details>
