@@ -21,22 +21,38 @@ Completing the Common Core demonstrates a student's ability to grasp fundamental
 
 ## My Journey
 <details>
-  <summary>The Piscine</summary>
+<summary>The Piscine</summary>
   
   ![Picine](https://github.com/inesalves44/42School/assets/105734074/cb55b3b5-c878-4b21-bc29-f08d6a29d313)
 
+Solo Projects:
+
 Project  | Grade
 ---------|------
-Shell00   | 
-Shell01     | | 
-C00   | grep
-C01   | mini
-C02
-C03
-C04
-C05
-C06
-C07
+Shell00   | <img src="https://img.shields.io/badge/score-70%20%2F%20100-success" />
+Shell01   | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
+C00   | <img src="https://img.shields.io/badge/score-77%20%2F%20100-success" />
+C01   | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
+C02   | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" />
+C03   | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
+C04  | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" />
+C05  | <img src="https://img.shields.io/badge/score-80%20%2F%20100-success" />
+C06  | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
+C07  | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" />
+
+Group Projects:
+Project  | Grade
+---------|------
+Rush01 | <img src="https://img.shields.io/badge/score-0%20%2F%20100-red" />
+Rush02 | <img src="https://img.shields.io/badge/score-0%20%2F%20100-red" />
+
+Exams:
+Exam  | Grade
+-------|------
+Exam00 | <img src="https://img.shields.io/badge/score-48%20%2F%20100-success" />
+Exam01 | <img src="https://img.shields.io/badge/score-64%20%2F%20100-success" />
+Exam02 | <img src="https://img.shields.io/badge/score-70%20%2F%20100-success" />
+Final Exam | <img src="https://img.shields.io/badge/score-66%20%2F%20100-success" />
 
   This my REpository for the Piscine projects:
 </details>
