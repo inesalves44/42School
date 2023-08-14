@@ -78,7 +78,7 @@ ft_printf | 01 | This project is to emulate parts of the printf function in C. |
 get_next_line | 01 | The objective of this project is to read any file line by line. | <img src="https://img.shields.io/badge/score-108%20%2F%20100-success" /> | [link](https://github.com/inesalves44/Get_next_line)
 Born2beroot | 01 | System Administration related exercise.| <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | no repository
 pipex | 02 | The objective of this project is to simulate shell pipes in C. | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | [link](https://github.com/inesalves44/pipex)
-fract-ol | 02 |  The point for this project is to create a program that renders different fractals. |<img src="https://img.shields.io/badge/score-120%20%2F%20100-success" /> | [link](https://github.com/inesalves44/fract-ol)
+fract-ol | 02 |  The point for this project is to create a program that renders different fractals. |<img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | [link](https://github.com/inesalves44/fract-ol)
 push_swap | 02 | This project aims to sort data using a limited number of instructions. | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | [link](https://github.com/inesalves44/push-swap)
 minishell | 03 | This project objective is to create a simple Unix shell! | <img src="https://img.shields.io/badge/score-101%20%2F%20100-success" /> | [link](https://github.com/inesalves44/minishell)
 Philosophers | 03 | This project objective is to work and understand threads | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> | [link](https://github.com/inesalves44/philo)
