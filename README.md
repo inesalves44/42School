@@ -28,6 +28,13 @@ Completing the Common Core demonstrates a student's ability to grasp fundamental
 </details>
 
 ## My Journey
+
+In August 2022, I participated in the Piscine, and ater a very intense month I got in!!
+
+And now I am currently in rank04 of the Common Core.
+
+Bellow you will find the repositories for all my projects within 42.
+
 <details>
 <summary> 
   The Piscine 
