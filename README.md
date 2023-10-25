@@ -41,8 +41,6 @@ Bellow you will find the repositories for all my projects within 42.
 </summary>
 
 ### Piscine
-  
-![Picine](https://github.com/inesalves44/42School/assets/105734074/cb55b3b5-c878-4b21-bc29-f08d6a29d313)
 
 Solo Projects:
 
