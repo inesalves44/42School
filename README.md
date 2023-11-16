@@ -95,4 +95,4 @@ Exam  | Grade
 -------|------
 Exam Rank 02 | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
 Exam Rank 03 | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
-Exam Rank 04 | In Progess
+Exam Rank 04 | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
