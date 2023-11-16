@@ -88,6 +88,8 @@ push_swap | 02 | This project aims to sort data using a limited number of instru
 minishell | 03 | This project objective is to create a simple Unix shell! | <img src="https://img.shields.io/badge/score-101%20%2F%20100-success" /> | [link](https://github.com/inesalves44/minishell)
 Philosophers | 03 | This project objective is to work and understand threads | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> | [link](https://github.com/inesalves44/philo)
 CPP Modules 00-04 | 04 | This project aims to teach Object-Oriented-Programming | In progress | 
+NetPractice | 04 | System Administration related exercise | In progress | 
+Cub3D | 04 | RayCaster with miniLibX | In progress | 
 
 
 Exams:
