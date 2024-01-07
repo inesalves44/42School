@@ -87,10 +87,9 @@ fract-ol | 02 |  The point for this project is to create a program that renders 
 push_swap | 02 | This project aims to sort data using a limited number of instructions. | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | [link](https://github.com/inesalves44/push-swap)
 minishell | 03 | This project objective is to create a simple Unix shell! | <img src="https://img.shields.io/badge/score-101%20%2F%20100-success" /> | [link](https://github.com/inesalves44/minishell)
 Philosophers | 03 | This project objective is to work and understand threads | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> | [link](https://github.com/inesalves44/philo)
-CPP Modules 00-04 | 04 | This project aims to teach Object-Oriented-Programming | In progress | 
-NetPractice | 04 | System Administration related exercise | In progress | 
-Cub3D | 04 | RayCaster with miniLibX | In progress | 
-
+CPP Modules 00-04 | 04 | This project aims to teach Object-Oriented-Programming | Awaiting Evaluation | [link] (https://github.com/inesalves44/CppModules00-04)
+NetPractice | 04 | System Administration related exercise | img src="https://img.shields.io/badge/score-100%20%2F%20100-success" | [link](https://github.com/inesalves44/NetPractice)
+Cub3D | 04 | RayCaster with miniLibX | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> | [link](https://github.com/nunovaladao/42_cub3D)
 
 Exams:
 Exam  | Grade
